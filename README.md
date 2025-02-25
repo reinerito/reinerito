@@ -14,3 +14,8 @@ Ski-bi dibby dib yo da dub dub
 Yo da dub dub
 
 ![scatman](https://upload.wikimedia.org/wikipedia/en/9/9c/Scatmanjohn.jpg)
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
