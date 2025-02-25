@@ -24,3 +24,5 @@ Yo da dub dub
 <a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
+
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
