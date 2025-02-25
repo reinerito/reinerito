@@ -13,6 +13,4 @@ Yo da dub dub
 Ski-bi dibby dib yo da dub dub
 Yo da dub dub
 
-![scatman]
-
-(https://upload.wikimedia.org/wikipedia/en/9/9c/Scatmanjohn.jpg)
+![scatman](https://upload.wikimedia.org/wikipedia/en/9/9c/Scatmanjohn.jpg)
