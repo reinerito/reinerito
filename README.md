@@ -1,6 +1,6 @@
-# Welcome Welcome everybody 
+# Welcome everybody 
 
-more about me :
+## more about me 
 
 I'm the Scatman
 Ski-bi dibby dib yo da dub dub
@@ -19,7 +19,7 @@ Yo da dub dub
 | ----------- | ----------- |
 | Header | Meader |
 | Paragraph | Maragraph |
-
+| table | chair |
 
 <a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
