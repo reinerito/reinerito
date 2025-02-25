@@ -15,7 +15,7 @@ Yo da dub dub
 
 ![scatman](https://upload.wikimedia.org/wikipedia/en/9/9c/Scatmanjohn.jpg)
 
-| Syntax | Description |
+| table | Mable |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Header | Meader |
+| Paragraph | Maragraph |
