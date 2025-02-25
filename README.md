@@ -15,4 +15,4 @@ Yo da dub dub
 
 ![alt text]
 (upload.wikimedia.org/wikipedia/en/9/9c/Scatmanjohn.jpg)
-(en.wikipedia.org/wiki/Scatman_John)
+(https://upload.wikimedia.org/wikipedia/en/9/9c/Scatmanjohn.jpg)
